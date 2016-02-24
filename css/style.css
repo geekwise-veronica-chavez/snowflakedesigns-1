@@ -83,7 +83,8 @@ li{
 .two_li{
     float: left;
     color: #F9F9F9;
-    width: calc(100%/9);
+    width: calc(100%/13);
+    line-height: 30px;
     margin: 0 auto;
     background-color:#f42098;
 }
@@ -91,7 +92,7 @@ a{
     text-decoration: none;
     color: white;
 }
-input {
+input{
     background-color: #6c5b79;
     padding: 0;
     font-size: 12px;
